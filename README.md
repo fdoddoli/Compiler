@@ -8,7 +8,7 @@ The proyect includes 2 main programs, a lexer and parser that generates quadrupl
 
 # Technical Documentation
 
-# Data Structures: Lexer and Parser
+**Data Structures: Lexer and Parser
 
 Variable Table: A dictionary with the variable name as the key and the address as the value.
 
@@ -28,13 +28,13 @@ Jump Stack: A stack that holds the quadruple numbers to which it will jump when 
 
 Quadruple Table: A list of quadruples, where each quadruple is a tuple with four values: the address of the operator, the address of the left operand, the address of the right operand, and the address of the result.
 
-# Data Structures: Virtual Machine
+**Data Structures: Virtual Machine
 
 Variable Table: A dictionary with the address as the key and the value as the variable name.
 
 Constant Table: A dictionary with the address as the key and the value as the constant.
 
-# Main Developed Algorithms
+**Main Developed Algorithms
 
 Below are the most complex algorithms in the program. It should be noted that they do not represent the entirety of its functions.
 
@@ -65,16 +65,16 @@ This function is called at the crucial point in a condition, after encountering 
 
 # Inputs to Test Program
 
-Equal to
+**Equal to
 <img width="695" alt="Screen Shot 2023-05-11 at 9 00 42 AM" src="https://github.com/fdoddoli/Compiler/assets/58672371/f126bc79-cfbd-41ae-a3db-0e25ac3be5de">
 
-Conditional
+**Conditional
 <img width="692" alt="Screen Shot 2023-05-11 at 9 01 08 AM" src="https://github.com/fdoddoli/Compiler/assets/58672371/5dd18a53-8fe6-4de5-8a29-a096a36f2003">
 
-While Loop
+**While Loop
 <img width="693" alt="Screen Shot 2023-05-11 at 9 01 28 AM" src="https://github.com/fdoddoli/Compiler/assets/58672371/210495b5-00f9-49dd-84f4-a20ab9764cd9">
 
-Print
+**Print
 <img width="694" alt="Screen Shot 2023-05-11 at 9 01 45 AM" src="https://github.com/fdoddoli/Compiler/assets/58672371/79e647a0-0e0a-477a-b0ac-4e188f614646">
 
 # Steps to Run Proyect
