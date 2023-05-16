@@ -1,6 +1,6 @@
 # Introduction
 
-This is my final proyect for the course Introduction to Compilers. I built a compiler in python for the following language using PLY as my parsing tool. 
+Final proyect for the course Introduction to Compilers. I built a compiler in python for the following language using PLY as a parsing tool. 
 
 <img width="811" alt="Screen Shot 2023-05-11 at 9 04 49 AM" src="https://github.com/fdoddoli/Compiler/assets/58672371/5c32e3c7-6a35-42c3-833a-2cd14abcbe01">
 
