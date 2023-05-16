@@ -73,15 +73,19 @@ This function is called at the crucial point in a condition, after encountering 
 # Inputs to Test Program
 
 **Equal to**
+
 <img width="695" alt="Screen Shot 2023-05-11 at 9 00 42 AM" src="https://github.com/fdoddoli/Compiler/assets/58672371/f126bc79-cfbd-41ae-a3db-0e25ac3be5de">
 
 **Conditional**
+
 <img width="692" alt="Screen Shot 2023-05-11 at 9 01 08 AM" src="https://github.com/fdoddoli/Compiler/assets/58672371/5dd18a53-8fe6-4de5-8a29-a096a36f2003">
 
 **While Loop**
+
 <img width="693" alt="Screen Shot 2023-05-11 at 9 01 28 AM" src="https://github.com/fdoddoli/Compiler/assets/58672371/210495b5-00f9-49dd-84f4-a20ab9764cd9">
 
 **Print**
+
 <img width="694" alt="Screen Shot 2023-05-11 at 9 01 45 AM" src="https://github.com/fdoddoli/Compiler/assets/58672371/79e647a0-0e0a-477a-b0ac-4e188f614646">
 
 # Steps to Run Proyect
